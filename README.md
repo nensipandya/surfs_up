@@ -53,3 +53,10 @@ In summary, the temperature, in Oahu, is relatively same throughout the year. Th
 ![image](https://user-images.githubusercontent.com/107137215/184517259-0c9e916e-60a6-4844-8f5e-81141ff4856c.png) ![image](https://user-images.githubusercontent.com/107137215/184517263-b88ffa2f-ee9b-4028-bdc7-fd05db4679a5.png)
 
 Looking at the precipitation and the temperature proves that investing in Surf n' Shake is a good business venture and that Oahu, Hawaii is the ideal location.
+
+But to get more information, we did further analysis of month os March, July, September and October. Here's are the results of temperature and precipitation data for these months.
+
+![image](https://user-images.githubusercontent.com/107137215/184541206-0057eb18-f658-4c1a-9077-73df0b995612.png) ![image](https://user-images.githubusercontent.com/107137215/184541220-79cdd8a1-4017-4599-98d0-5d799beeb303.png) ![image](https://user-images.githubusercontent.com/107137215/184541240-68515bfa-0ee6-423d-995b-62e80cb332c4.png) ![image](https://user-images.githubusercontent.com/107137215/184541257-3026f7c4-d86b-4bd8-a13a-dff85b4c5584.png)
+
+
+By looking at these data, it's confirm that the average temperature is in 70's. There is no doubt that Surf n' Shake is going to a successful business in Oahu, Hawaii.
