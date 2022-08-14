@@ -49,3 +49,7 @@ We recorded the temperature data for the month of June and December and the resu
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 In summary, the temperature, in Oahu, is relatively same throughout the year. The avergae temperature is in the 70's.
+
+![image](https://user-images.githubusercontent.com/107137215/184517259-0c9e916e-60a6-4844-8f5e-81141ff4856c.png) ![image](https://user-images.githubusercontent.com/107137215/184517263-b88ffa2f-ee9b-4028-bdc7-fd05db4679a5.png)
+
+Looking at the precipitation and the temperature proves that investing in Surf n' Shake is a good business venture and that Oahu, Hawaii is the ideal location.
